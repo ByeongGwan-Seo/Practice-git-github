@@ -6,4 +6,4 @@ title:git for everyone
 
 *something changed
 
-somehow, he survived
+something changed again shit
